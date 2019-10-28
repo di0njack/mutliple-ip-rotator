@@ -1,0 +1,1 @@
+Simple bash script for fuzzing a target website deploying some IP rate block protection (CDN, WAF,...). With this utility you can choose between 3 different rotate methods (AWS, 3rd Party VPN or TOR network).
